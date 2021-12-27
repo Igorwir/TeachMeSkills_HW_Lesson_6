@@ -1,1 +1,1 @@
-# TeachMeSkills_Lesson6
+# TeachMeSkills_HW_Lesson_6
